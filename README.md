@@ -1,5 +1,13 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+## Hi! I'm Alexey 👋
 
+My contacts:
+
+📞 +7-915-246-71-26
+📲 Telegram: @alexeymozgovoy999
+✉ mozgovoy_1999@bk.ru
 <!--
 **alexeymozgovoy-1999/alexeymozgovoy-1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
