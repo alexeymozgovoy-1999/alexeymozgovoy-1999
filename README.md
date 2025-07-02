@@ -1,14 +1,17 @@
-<div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZ6NGc1cmFlbTZ4ZWp1cjg1ZXZ1Zzd0M2hnazhydDI4M3hveW5kayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sC0Otv1hUm0BtrqNGp/giphy.gif" width="100"/>
-</div>
-
-## Hi! I'm Alexey 👋
-
-My contacts:
-
-📞 +7-915-246-71-26
-📲 Telegram: @alexeymozgovoy999
-✉ mozgovoy_1999@bk.ru
+<table>
+  <tr>
+    <td valign="top" style="padding: 0; border: none;">
+      <h2>Hi! I'm Alexey 👋</h2>
+      <p>My contacts:</p>
+      <p>📞 +7-915-246-71-26<br>
+      📲 Telegram: @alexeymozgovoy999<br>
+      ✉ mozgovoy_1999@bk.ru</p>
+    </td>
+    <td valign="top" align="right" style="padding: 0; border: none;">
+      <img src="https://camo.githubusercontent.com/7d4c2bf436f544aa90149d16319fa1aa168af3d2b5dcbff00c6516893a10f145/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53706f70443749514e32674b33714e346a532f67697068792e676966" width="200"/>
+    </td>
+  </tr>
+</table>
 <!--
 **alexeymozgovoy-1999/alexeymozgovoy-1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
