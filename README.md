@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZ6NGc1cmFlbTZ4ZWp1cjg1ZXZ1Zzd0M2hnazhydDI4M3hveW5kayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sC0Otv1hUm0BtrqNGp/giphy.gif" width="100"/>
 </div>
+
 ## Hi! I'm Alexey 👋
 
 My contacts:
